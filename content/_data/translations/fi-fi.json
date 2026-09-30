@@ -29,7 +29,7 @@
     "dark": "Tumma",
     "light": "Vaalea",
     "lightDarkToggle": "Vaihda tumma/vaalea teema",
-    "footer": "Vuosi on {{ year }}.",
+    "footer": "Elellään vuodessa {{ year }}.",
     "search": {
         "placeholder": "Haku",
         "submit": "Go"
