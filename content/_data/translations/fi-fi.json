@@ -19,7 +19,7 @@
         }
     },
     "feeds": {
-        "info": "Tämä on RSS-syöte. Kopioi ja liitä URL osoite feed-lukijaan. Vieraile <a href=\"https://aboutfeeds.com\">About Feeds</a> oppiaksesi lisää RSS:stä.",
+        "info": "Tämä on RSS-syöte. Kopioi ja liitä URL-osoite syötteen lukijaohjelmaasi. Vieraile osoitteessa<a href=\"https://aboutfeeds.com\">About Feeds</a> oppiaksesi lisää RSS:stä.",
         "title": "Viimeksi julkaistu"
     },
     "tags": {
