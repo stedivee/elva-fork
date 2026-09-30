@@ -11,7 +11,8 @@ eleventyNavigation:
   title: Home
   order: 1
 ---
+## Welcome ##
+You've reached my site, where I learn to use Eleventy with Elva, Front Matter CMS, Jamstack etc.
 
-A multilingual, clean, green, <a href="https://www.11ty.dev/" target="_blank" rel="noopener">11ty starter theme</a>. Elva provides solid foundations for your next web project.
+Elva is a multilingual, clean, green, <a href="https://www.11ty.dev/" target="_blank" rel="noopener">11ty starter theme</a>. Elva provides solid foundations for your next web project.
 
-This is a practising website learning Eleventy, Elva, Front Matter CMS, Jamstack etc.

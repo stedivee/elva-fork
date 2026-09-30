@@ -11,6 +11,10 @@ seo:
   slug: /
 ---
 
-Monikielinen, siisti, vihreä, <a href="https://www.11ty.dev/" target="_blank" rel="noopener">11ty aloitusteema</a>. Elva  tarjoaa vakaan pohjan tulevalla webbiprojektillesi. 
+## Tervetuloa ##
+Olet saapunut harjoittelusivustolle, jossa Teuvo treenailee pikkuhiljaa taitojaan Eleventyn kanssa. Täällä sisältö elää ja välillä poistuu.
 
-Tämä yo. teksti oli alkuperäinen fiiliskohotus ;)
+Ulkoasu ja sivuston rakenteen logiikka on Elvan. Elva on mainio :)
+
+<blockquote>Monikielinen, siisti, vihreä, <a href="https://www.11ty.dev/" target="_blank" rel="noopener">11ty aloitusteema</a>. Elva  tarjoaa vakaan pohjan tulevalla webbiprojektillesi. </blockquote>
+
