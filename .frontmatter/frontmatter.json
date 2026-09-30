@@ -49,5 +49,14 @@
       "title": "Generate open graph image",
       "script": ".frontmatter/scripts/opengraph.js"
     }
-  ]
+  ],
+  "frontMatter.content.pageFolders": [
+  {
+    "title": "post",
+    "filePrefix": null,
+    "previewPath": "/{{fm.type}}/{{pathToken.3}}/{{pathToken.4}}",
+    "path": "[[workspace]]/content/{{year}}/{{month}}",
+    "contentTypes": ["post"]
+  }
+]
 }
