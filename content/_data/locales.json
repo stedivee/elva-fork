@@ -6,13 +6,6 @@
         "locale": "en-gb",
         "default": true
     },
-    "sv": {
-        "dir": "ltr",
-        "label": "Svenska",
-        "shorthand": "SE",
-        "locale": "sv-se",
-        "default": false
-    },
     "fi-fi": {
         "label": "Suomi",
         "locale": "fi-fi",
