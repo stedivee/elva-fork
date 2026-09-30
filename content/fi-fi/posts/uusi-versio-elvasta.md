@@ -1,7 +1,6 @@
 ---
 title: Uusi versio Elvasta
 date: 2026-09-30
-draft: true
 layout: post
 tags:
     - _search
