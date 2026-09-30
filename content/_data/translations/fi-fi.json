@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "title": "elva",
+        "rssTitle": "RSS-syöte",
+        "jsonTitle": "JSON-syöte",
+        "blogrollTitle": "Blogirulla",
+        "description": "Monikielinen , vihreä, yksinkertainen ja nopea staattinen sivustogeneraattori",
+        "opengraphDefaultAlt": "Suomenkielinen seloste oletus opengraph-kuvasta"
+    },
+    "header": {
+        "skipLink": "Siirry suoraan sisältöön",
+        "home": "Koti"
+    },
+    "readingTime": {
+        "underMinute": "Alle 1 minuutin lukuaika",
+        "count": {
+            "one": "{{ minutes }} minuutti lukuaikaa",
+            "other": "{{ minutes }} minuuttia lukuaikaa"
+        }
+    },
+    "feeds": {
+        "info": "Tämä on RSS-syöte. Kopioi ja liitä URL osoite feed-lukijaan. Vieraile <a href=\"https://aboutfeeds.com\">About Feeds</a> oppiaksesi lisää RSS:stä.",
+        "title": "Viimeksi julkaistu"
+    },
+    "tags": {
+        "tagged": "Aihetunnisteella",
+        "description": "Kaikki aihetunnisteen sisältö:"
+    },
+    "dark": "Tumma",
+    "light": "Vaalea",
+    "lightDarkToggle": "Vaihda tumma/vaalea teema",
+    "footer": "Vuosi on {{ year }}.",
+    "search": {
+        "placeholder": "Haku",
+        "submit": "Go"
+    }
+}
