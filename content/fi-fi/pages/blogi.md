@@ -5,6 +5,6 @@ layout: posts
 eleventyNavigation:
     key: blogi
     title: Blogi
-    order: 4
+    order: 3
 ---
 {* Uudet artikkelit tulevat automaattisesti tänne käänteisessä järjestyksessä *}
