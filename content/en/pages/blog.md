@@ -4,6 +4,6 @@ date: 2026-10-01
 layout: posts
 eleventyNavigation:
     key: blog
-    title: Bog
+    title: Blog
     order: 4
 ---
