@@ -1,6 +1,10 @@
 {
   "taxonomy": {
-    "categories": [],
+    "categories": [
+      "Yleinen",
+      "Tietotekniikka",
+      "Musiikki"
+    ],
     "tags": [
       "_home",
       "_search",
