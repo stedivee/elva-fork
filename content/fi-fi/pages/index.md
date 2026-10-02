@@ -1,5 +1,5 @@
 ---
-title: Koti
+title: Tervetuloa
 tags:
   - _home
 eleventyNavigation:
@@ -10,8 +10,6 @@ layout: page
 seo:
   slug: /
 ---
-
-## Tervetuloa ##
 Olet saapunut harjoittelusivustolle, jossa Teuvo treenailee pikkuhiljaa taitojaan Eleventyn kanssa. <div class="notice notice-notice">Täällä sisältö elää ja välillä poistuu.</div>
 
 Ulkoasu ja sivuston rakenteen logiikka on Elvan. Elva on mainio :)
